@@ -1,0 +1,11 @@
+*~
+*.o
+.deps
+autom4te.cache/
+Makefile
+config.h
+config.log
+config.status
+core
+k-means
+stamp-h1
